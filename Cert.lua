@@ -59,4 +59,4 @@ end
 
 print('Finnished bootlegging, glhf')
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zxrorocks/test-repo2/main/v4.7"))()
+loadstring(game:HttpGet("https://xk5ng.github.io/V4.7"))()
